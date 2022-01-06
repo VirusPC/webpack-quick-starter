@@ -7,7 +7,7 @@ This repository is used to create a new webpack project in short time.
 1. typescript
 2. sass
 3. jest
-4. eslint
+4. tslint
 
 ## Reference
 
